@@ -1,6 +1,0 @@
-{{#user}}
-Name: Manan Sharma
-Skills: HTML, CSS, JS, Reactjs, Django Framework
-Email: manansharma478@gmail.com
-{{/user}}
-
